@@ -6,6 +6,6 @@ HTML/CSS/SCSS Template for Prudential Book Store
 
 [![Homepage](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/homepage_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/homepage.jpg)
 
-[![Listing Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing.jpg)
+[![Listing Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing.png)
 
-[![Details Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details.jpg)
+[![Details Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details.png)
