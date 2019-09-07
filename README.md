@@ -2,8 +2,9 @@
 
 HTML/CSS/SCSS Template for Prudential Book Store
 
-
 Screenshots:
-![Homepage](https://github.com/soubhikchatterjee/online-food-order-template/blob/master/img/screenshot_full.png?raw=true)
+[![Homepage](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/homepage_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/homepage.jpg)
 
-[![Homepage](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Listing Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing.jpg)
+
+[![Details Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details.jpg)
