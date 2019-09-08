@@ -9,3 +9,5 @@ HTML/CSS/SCSS Template for Prudential Book Store
 [![Listing Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/listing.png)
 
 [![Details Page](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details_tn.jpg)](https://github.com/soubhikchatterjee/Prudential-Book-Store-Template/blob/master/img/screenshots/details.png)
+
+Live Preview: https://prudential-template.netlify.com/
